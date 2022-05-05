@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Hiroki there 👋
 
 <!--
 **hiroki-chen/hiroki-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Email: etyyuiope [AT] gmail [DOT] com
+
+Languages: C / C++, Python, Java, Shell
+
+2022's Resolution: Learn Rust :)
