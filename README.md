@@ -19,8 +19,4 @@ Email: etyyuiope [AT] gmail [DOT] com
 
 Languages: C / C++, Python, Java, Shell
 
-2022's Resolution: Learn Rust :)
-
-![fig](https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif)
-
-Love Ferris!
+I am using Rust to do some magic things.
