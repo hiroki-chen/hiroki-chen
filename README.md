@@ -1,5 +1,3 @@
-### Hi! Hiroki there 👋
-
 <!--
 **hiroki-chen/hiroki-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,6 @@ Here are some ideas to get you started:
 
 Email: etyyuiope [AT] gmail [DOT] com
 
-Languages: C / C++, Python, Java, Shell
+Languages: C++, Rust, Python, Java, Shell
 
-I am using Rust to do some magic things.
+I major in Cybersecurity, currently doing TEE-related research.
