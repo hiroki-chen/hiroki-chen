@@ -17,4 +17,4 @@ Email: etyyuiope [AT] gmail [DOT] com
 
 Languages: C++, Rust, Python, Java, Shell
 
-I major in Cybersecurity, currently doing TEE-related research.
+I major in Cybersecurity, currently doing TEE-related research and program verification.
